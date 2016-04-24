@@ -1,3 +1,3 @@
 #hail data analysis
 
-print 'hihi'
+print 'DATA'
